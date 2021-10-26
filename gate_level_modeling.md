@@ -14,4 +14,11 @@ AND gate testbench
 
 ![image](https://user-images.githubusercontent.com/89384474/138887495-13df07e9-1966-4fd6-a53e-a2d7af49417d.png)
 
+3. For simulation follow the given steps
+
+STEP 1: 
+
+![image](https://user-images.githubusercontent.com/89384474/138888170-b6b669b3-dcd3-4ae6-a3bd-97d410a6e352.png)
+
+
 
